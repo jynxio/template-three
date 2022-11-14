@@ -1,1 +1,1 @@
-# template-three-vite
+# template-three
